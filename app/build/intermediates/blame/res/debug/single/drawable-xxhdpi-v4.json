@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\login_logo.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable-xxhdpi\\login_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg.jpg",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable-xxhdpi\\bg.jpg"
+    }
+]

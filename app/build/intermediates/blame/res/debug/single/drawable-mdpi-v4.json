@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shake_bottom_line.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable-mdpi\\shake_bottom_line.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stone_b1.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable-mdpi\\stone_b1.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shake_bottom.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable-mdpi\\shake_bottom.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shake_top.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable-mdpi\\shake_top.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shake_top_line.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable-mdpi\\shake_top_line.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_find_btn.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable-mdpi\\tab_find_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stone_w2.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable-mdpi\\stone_w2.png"
+    }
+]

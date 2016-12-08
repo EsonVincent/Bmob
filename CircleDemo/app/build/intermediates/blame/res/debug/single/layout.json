@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_more_progress.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.malinskiy\\superrecyclerview\\1.1.3\\res\\layout\\layout_more_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_horizontalscroll.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.malinskiy\\superrecyclerview\\1.1.3\\res\\layout\\layout_recyclerview_horizontalscroll.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_drafts_video.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\activity_qupai_drafts_video.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_common_simple_list_item_1.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_common_simple_list_item_1.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_tab_overlay.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_tab_overlay.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\social_sns_popupwindow.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\social_sns_popupwindow.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coach_mark_qupai_diy_scale.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\coach_mark_qupai_diy_scale.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_video.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_diy_video.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_timeline_middle.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_diy_timeline_middle.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_comment.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\dialog_comment.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coach_mark_qupai_trim_center.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\coach_mark_qupai_trim_center.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_layout_overlay_font_loading.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_layout_overlay_font_loading.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_text_edit_overlay.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_text_edit_overlay.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_timeline_layout.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\guide_timeline_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_video.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\activity_qupai_video.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_qupai_recorder_render_progress.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\dlg_qupai_recorder_render_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_common_progress_dialog.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_common_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_recorder_center_bottom.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_recorder_center_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_layout_overlay_example.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_layout_overlay_example.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ab_qupai_draft_chooser.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\ab_qupai_draft_chooser.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_video_live.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\fragment_qupai_video_live.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_batch.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_diy_batch.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_photo_editor.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\fragment_qupai_photo_editor.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_overlay_manage_right.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_overlay_manage_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ab_qupai_qupai_import_video.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\ab_qupai_qupai_import_video.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_circle_item.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\adapter_circle_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coach_mark_qupai_trim_bottom.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\coach_mark_qupai_trim_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_textonly_overlay.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_textonly_overlay.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewstub_urlbody.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\viewstub_urlbody.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_gallery.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_gallery.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewstub_imgbody.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\viewstub_imgbody.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_editor_asset_addons.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_editor_asset_addons.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_render_progress.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\activity_qupai_render_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_editor_asset_long.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_editor_asset_long.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_guide_switch_close.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_guide_switch_close.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_video_recorder_webview.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\fragment_qupai_video_recorder_webview.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_center_bottom.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_center_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_layout_overlay_font_download.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_layout_overlay_font_download.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_editview.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\layout_editview.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_play.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_diy_play.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_editor_asset_null_long.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_header_qupai_editor_asset_null_long.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_verticalscroll.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.malinskiy\\superrecyclerview\\1.1.3\\res\\layout\\layout_recyclerview_verticalscroll.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_more_progress.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\view_more_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_gallery_button.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_gallery_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_upload.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\layout_upload.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_video_file.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\activity_qupai_video_file.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_common_typing_filter.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_common_typing_filter.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_overlay_more.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_overlay_more.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_common_alert_dialog_progress.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_common_alert_dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_editor_asset_short.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_editor_asset_short.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_overlay_layout.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\guide_overlay_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagepager.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\activity_imagepager.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_project_explorer.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\fragment_qupai_project_explorer.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_video_dubbing.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\fragment_qupai_video_dubbing.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_tab_new.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_tab_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_video_recorder.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\fragment_qupai_video_recorder.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_pager_image.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\item_pager_image.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_row_text_bottom.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_row_text_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_row_text_bottom_1.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_row_text_bottom_1.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_editor_diyoverlay_category_more.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_header_qupai_editor_diyoverlay_category_more.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_image_crop.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\activity_qupai_image_crop.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_video.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\layout_video.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_layout_overlay_unlock.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_layout_overlay_unlock.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_guide_switch.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_guide_switch.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_timeline_left.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_diy_timeline_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_tip_qupai_dialog.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\guide_tip_qupai_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_editor_asset_more_long.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_header_qupai_editor_asset_more_long.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_video_editor.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\fragment_qupai_video_editor.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_widget_qupai_drafts.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\tab_widget_qupai_drafts.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_timeline_right.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_diy_timeline_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_progress_recyclerview.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.malinskiy\\superrecyclerview\\1.1.3\\res\\layout\\layout_progress_recyclerview.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quit_confirm_dialog.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\quit_confirm_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_diyeffect_content_merge.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_diyeffect_content_merge.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_video_draft.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_video_draft.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_common_overlay_manager_fragment.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_common_overlay_manager_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_qupai_diy_show.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\dlg_qupai_diy_show.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ab_qupai_trim_chooser.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\ab_qupai_trim_chooser.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_editor_asset_null_short.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_header_qupai_editor_asset_null_short.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_main_titlebar.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\layout_main_titlebar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_qupai_mv_locked.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\toast_qupai_mv_locked.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_video_trim.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\activity_qupai_video_trim.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coach_mark_qupai_recorder.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\coach_mark_qupai_recorder.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_beautify_skin.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_beautify_skin.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewstub_videobody.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\viewstub_videobody.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_textcolor.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_textcolor.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_diyeffect_content_merge.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_header_qupai_diyeffect_content_merge.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_edit_overlay_guide.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_edit_overlay_guide.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_qupai_import_duration_limit.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\toast_qupai_import_duration_limit.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_import_video.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\fragment_qupai_import_video.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_guide_switch_again.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_guide_switch_again.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_circle.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\head_circle.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_center_top.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_center_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_video_gallery.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\activity_qupai_video_gallery.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_layout_overlay_font_unlock.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_layout_overlay_font_unlock.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\import_photo_texture_view.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\import_photo_texture_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_recorder_center_top.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\balloon_tip_qupai_recorder_center_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_magic_text.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\layout_magic_text.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_diyeffect.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_header_qupai_diyeffect.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_editor_diyoverlay_category.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_editor_diyoverlay_category.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_text_edit_overlay_guide.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_text_edit_overlay_guide.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_gallery_video.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_header_qupai_gallery_video.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\import_video_texture_view.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\import_video_texture_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ab_qupai_video_edit.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\ab_qupai_video_edit.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_photo.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\fragment_qupai_photo.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_font_effect.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_font_effect.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_editor_asset_more_short.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_header_qupai_editor_asset_more_short.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_editor_timeline_slider.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_editor_timeline_slider.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_diyeffect_chooser.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_diyeffect_chooser.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_audio_mixer_slider.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_audio_mixer_slider.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_progress.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.malinskiy\\superrecyclerview\\1.1.3\\res\\layout\\layout_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_edit_overlay.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_edit_overlay.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_import.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_header_qupai_import.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_trim_video_thumbnail.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_trim_video_thumbnail.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_edittext_overlay.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\qupai_edittext_overlay.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_gallery_dir.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout\\item_qupai_gallery_dir.xml"
+    }
+]

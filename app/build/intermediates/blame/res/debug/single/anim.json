@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_right.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\anim\\anim_chat_voice_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_left.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\anim\\anim_chat_voice_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\anim\\shrink_from_top.xml"
+    }
+]

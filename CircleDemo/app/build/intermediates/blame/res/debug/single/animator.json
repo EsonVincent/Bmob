@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\focus_area_focus_qupai_start.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\focus_area_focus_qupai_start.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\focus_area_focus_qupai_stop.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\focus_area_focus_qupai_stop.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\qupai_self_timer_countdown.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\qupai_self_timer_countdown.xml"
+    }
+]

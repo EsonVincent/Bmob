@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_textcolor.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\tab_textcolor.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\search_clear.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_shape_normal.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\dialog_shape_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal_shape.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\button_normal_shape.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_message_btn.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\tab_message_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_action_bar_more_bg_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\base_action_bar_more_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recent_name_text_color_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\recent_name_text_color_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image1.jpg",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\image1.jpg"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image4.jpg",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\image4.jpg"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_action_bar_add_bg_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\base_action_bar_add_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_gallery_contacts_dialog_background.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\v2_gallery_contacts_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_btn_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\dialog_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_action_bar_back_bg_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\base_action_bar_back_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recent_message_text_color_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\recent_message_text_color_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_login_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\card.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_sortlistview_sidebar_background.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\v2_sortlistview_sidebar_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image2.jpg",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\image2.jpg"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emo_delete_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_emo_delete_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_bg_enable.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\point_bg_enable.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_background.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\point_background.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios7_btn.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\ios7_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_send_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_send_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_location_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_chat_add_location_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_black.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\progress_black.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_voice_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_chat_voice_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bg.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\title_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_logout_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_logout_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emote_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_emote_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_record_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_chat_record_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_action_bar_true_bg_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\base_action_bar_true_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_emo_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_chat_emo_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_keyboard_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_chat_keyboard_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_contact_btn.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\tab_contact_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_send_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_chat_send_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_shape.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\button_selector_shape.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape1.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\shape1.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_chat_add_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_fail_resend.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_chat_fail_resend.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_shape_pressed.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\dialog_shape_pressed.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape2.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\shape2.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_picture_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_chat_add_picture_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_color.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\bg_color.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_camera_selector.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\btn_chat_add_camera_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image3.jpg",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\image3.jpg"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_set_btn.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\tab_set_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_bg_normal.png",
+        "source": "D:\\Android\\AndroidProjectSpace\\Bmob\\app\\src\\main\\res\\drawable\\point_bg_normal.png"
+    }
+]

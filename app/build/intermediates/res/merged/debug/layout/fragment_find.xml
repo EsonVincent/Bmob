@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:clickable="true">
+
+
+    <include
+        android:id="@+id/common_actionbar"
+        layout="@layout/include_action_bar" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_line_width_3"
+        android:background="@drawable/base_horization_line2" >
+    </View>
+
+    <LinearLayout
+        android:id="@+id/ll_petfriend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_selector"
+        android:minHeight="50dp"
+        android:padding="10dp" >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:src="@drawable/chongwu"/>
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dip"
+            android:text="爱宠说" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_line_width_3"
+        android:background="@drawable/base_horization_line2" >
+    </View>
+    <LinearLayout
+        android:id="@+id/ll_scan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_selector"
+        android:minHeight="50dp"
+        android:padding="10dp" >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:src="@drawable/saoyisao"/>
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dip"
+            android:text="扫一扫" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_line_width_2"
+        android:background="@drawable/base_horizontal_line" >
+    </View>
+
+    <LinearLayout
+        android:id="@+id/ll_shake"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_selector"
+        android:minHeight="50dp"
+        android:padding="10dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:src="@drawable/yaoyiyao"/>
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:textSize="15sp"
+            android:text="摇一摇" />
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_line_width_3"
+        android:background="@drawable/base_horization_line2" >
+    </View>
+    <LinearLayout
+        android:id="@+id/ll_shop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_selector"
+        android:minHeight="50dp"
+        android:padding="10dp" >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:src="@drawable/shop"/>
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dip"
+            android:text="爱宠商店" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_line_width_2"
+        android:background="@drawable/base_horizontal_line" >
+    </View>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_selector"
+        android:minHeight="50dp"
+        android:padding="10dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:src="@drawable/pet_hospital"/>
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:textSize="15sp"
+            android:text="宠物医院" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/base_line_width_3"
+        android:background="@drawable/base_horization_line2" >
+    </View>
+
+    <LinearLayout
+        android:id="@+id/ll_playgame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="50dp"
+        android:padding="10dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/play_game"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:src="@drawable/play_game"/>
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dip"
+            android:text="游戏"  />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/base_horization_line2" >
+    </View>
+</LinearLayout>

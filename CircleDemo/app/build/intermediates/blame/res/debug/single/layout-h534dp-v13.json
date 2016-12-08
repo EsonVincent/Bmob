@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-h534dp-v13\\balloon_tip_qupai_recorder_center_top.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout-h534dp-v13\\balloon_tip_qupai_recorder_center_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-h534dp-v13\\balloon_tip_qupai_recorder_center_bottom.xml",
+        "source": "D:\\Android\\AndroidProjectSpace\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\layout-h534dp-v13\\balloon_tip_qupai_recorder_center_bottom.xml"
+    }
+]

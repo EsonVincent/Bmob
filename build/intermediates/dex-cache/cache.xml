@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a9cdab08ac1ab3dcac1abce4c35d68bf4496245a">
+        <dex dex="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_edcaab2f90dbab81e00e0dff45bdf79ec7d134f5.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidProjectSpace\Bmob\app\libs\universal-image-loader-1.9.2_sources.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2_sources_37252420fc73c77ab02b388ea52622d2c268693a.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidProjectSpace\Bmob\app\libs\zbar.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\pre-dexed\debug\zbar_1cad5d79d841be38b50e8b3197e7e902176346fa.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidProjectSpace\Bmob\app\libs\locSDK_4.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\pre-dexed\debug\locSDK_4.2_cff9ae1f292072e34c0b2cdf96151a480b07e9b7.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61a96170a3a66d6ea07e0dcbbf6d645ffd49c64d">
+        <dex dex="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\pre-dexed\debug\instant-run_6ac50a59c09cd15abbb480e9e8c3b582c5dc8627.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidProjectSpace\Bmob\app\libs\photoview-library-1.2.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b9000943d77c17d231bf3141a712828f2636c2ea">
+        <dex dex="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\pre-dexed\debug\photoview-library-1.2.2_23698ff9a3543243bd19ee7cf543eec5a10de02c.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidProjectSpace\Bmob\app\libs\baidumapapi_v3_0_0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b39155228374e50c537705e9bfc10d3f69c2397a">
+        <dex dex="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_0_0_528f349eb5b20edabbb1b289f1ca62c09201fda1.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidProjectSpace\Bmob\app\libs\BmobSDK_V3.4.3_0820.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="257822e98adcdb2617cafb2b818db6c376bc3c7d">
+        <dex dex="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\pre-dexed\debug\BmobSDK_V3.4.3_0820_55f0ffd7a522d942ffb421e60a3fdae7b2b96cc7.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidProjectSpace\Bmob\app\libs\BmobIM_V1.1.9beta_20150820.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="711e2a35a8b6bbd8599cd12dcca14d55225617bd">
+        <dex dex="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\pre-dexed\debug\BmobIM_V1.1.9beta_20150820_5d63fb1e69918d11b54664c8d075cb5a7713923a.jar" />
+    </item>
+    <item
+        jar="E:\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android\AndroidProjectSpace\Bmob\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_0f581b45f8f06daa704bb026ad3f8f8e493e9ee2.jar" />
+    </item>
+
+</items>
