@@ -1160,6 +1160,8 @@ public class ChatActivity extends ActivityBase implements OnClickListener,
 		try {
 			unregisterReceiver(receiver);
 		} catch (Exception e) {
+
+
 		}
 		
 	}
